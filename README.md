@@ -1,4 +1,3 @@
-# About-Me
 <h1 align="center">Hi 👋, I'm Sahasawat Srijamsai | สหสวรรษ ศรีแจ่มใส</h1>
 <h3 align="center">A Passionate about IoT, AI, and Full-Stack Development | Building scalable and efficient solutions</h3>
 
